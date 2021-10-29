@@ -1,0 +1,2 @@
+# calculoNomina
+pseint pseudocodigo
